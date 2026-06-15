@@ -1,0 +1,6 @@
+{
+  "name": "Spanish-Armenian Grammar Practice",
+  "description": "Իսպաներենի ինտերակտիվ քերականության վարժություններ հայերեն թարգմանությամբ, լուծումներով և մանրամասն բացատրություններով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
